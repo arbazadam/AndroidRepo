@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="secondaryTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#BADA55</item>
+        <item name="colorPrimaryDark">#F2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
 </resources>
